@@ -10,20 +10,20 @@
 		566BB36D1B5E9DC6002B615B /* FoldingTabBar.h in Headers */ = {isa = PBXBuildFile; fileRef = 566BB36C1B5E9DC6002B615B /* FoldingTabBar.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		566BB3731B5E9DC6002B615B /* FoldingTabBar.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 566BB3671B5E9DC6002B615B /* FoldingTabBar.framework */; };
 		566BB37A1B5E9DC7002B615B /* FoldingTabBarTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 566BB3791B5E9DC7002B615B /* FoldingTabBarTests.m */; };
-		566BB3A51B5E9E1C002B615B /* YALSpringAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = 566BB3881B5E9E1C002B615B /* YALSpringAnimation.h */; };
+		566BB3A51B5E9E1C002B615B /* YALSpringAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = 566BB3881B5E9E1C002B615B /* YALSpringAnimation.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		566BB3A61B5E9E1C002B615B /* YALSpringAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 566BB3891B5E9E1C002B615B /* YALSpringAnimation.m */; };
-		566BB3A71B5E9E1C002B615B /* CAAnimation+YALTabBarViewAnimations.h in Headers */ = {isa = PBXBuildFile; fileRef = 566BB38D1B5E9E1C002B615B /* CAAnimation+YALTabBarViewAnimations.h */; };
+		566BB3A71B5E9E1C002B615B /* CAAnimation+YALTabBarViewAnimations.h in Headers */ = {isa = PBXBuildFile; fileRef = 566BB38D1B5E9E1C002B615B /* CAAnimation+YALTabBarViewAnimations.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		566BB3A81B5E9E1C002B615B /* CAAnimation+YALTabBarViewAnimations.m in Sources */ = {isa = PBXBuildFile; fileRef = 566BB38E1B5E9E1C002B615B /* CAAnimation+YALTabBarViewAnimations.m */; };
-		566BB3A91B5E9E1C002B615B /* CATransaction+TransactionWithAnimationsAndCompletion.h in Headers */ = {isa = PBXBuildFile; fileRef = 566BB3911B5E9E1C002B615B /* CATransaction+TransactionWithAnimationsAndCompletion.h */; };
+		566BB3A91B5E9E1C002B615B /* CATransaction+TransactionWithAnimationsAndCompletion.h in Headers */ = {isa = PBXBuildFile; fileRef = 566BB3911B5E9E1C002B615B /* CATransaction+TransactionWithAnimationsAndCompletion.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		566BB3AA1B5E9E1C002B615B /* CATransaction+TransactionWithAnimationsAndCompletion.m in Sources */ = {isa = PBXBuildFile; fileRef = 566BB3921B5E9E1C002B615B /* CATransaction+TransactionWithAnimationsAndCompletion.m */; };
-		566BB3AB1B5E9E1C002B615B /* YALAnimatingTabBarConstants.h in Headers */ = {isa = PBXBuildFile; fileRef = 566BB3941B5E9E1C002B615B /* YALAnimatingTabBarConstants.h */; };
+		566BB3AB1B5E9E1C002B615B /* YALAnimatingTabBarConstants.h in Headers */ = {isa = PBXBuildFile; fileRef = 566BB3941B5E9E1C002B615B /* YALAnimatingTabBarConstants.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		566BB3AC1B5E9E1C002B615B /* YALAnimatingTabBarConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = 566BB3951B5E9E1C002B615B /* YALAnimatingTabBarConstants.m */; };
-		566BB3AD1B5E9E1C002B615B /* YALFoldingTabBarController.h in Headers */ = {isa = PBXBuildFile; fileRef = 566BB3981B5E9E1C002B615B /* YALFoldingTabBarController.h */; };
+		566BB3AD1B5E9E1C002B615B /* YALFoldingTabBarController.h in Headers */ = {isa = PBXBuildFile; fileRef = 566BB3981B5E9E1C002B615B /* YALFoldingTabBarController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		566BB3AE1B5E9E1C002B615B /* YALFoldingTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = 566BB3991B5E9E1C002B615B /* YALFoldingTabBarController.m */; };
-		566BB3AF1B5E9E1C002B615B /* YALTabBarItem.h in Headers */ = {isa = PBXBuildFile; fileRef = 566BB39C1B5E9E1C002B615B /* YALTabBarItem.h */; };
+		566BB3AF1B5E9E1C002B615B /* YALTabBarItem.h in Headers */ = {isa = PBXBuildFile; fileRef = 566BB39C1B5E9E1C002B615B /* YALTabBarItem.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		566BB3B01B5E9E1C002B615B /* YALTabBarItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 566BB39D1B5E9E1C002B615B /* YALTabBarItem.m */; };
-		566BB3B11B5E9E1C002B615B /* YALTabBarInteracting.h in Headers */ = {isa = PBXBuildFile; fileRef = 566BB3A01B5E9E1C002B615B /* YALTabBarInteracting.h */; };
-		566BB3B21B5E9E1C002B615B /* YALFoldingTabBar.h in Headers */ = {isa = PBXBuildFile; fileRef = 566BB3A31B5E9E1C002B615B /* YALFoldingTabBar.h */; };
+		566BB3B11B5E9E1C002B615B /* YALTabBarInteracting.h in Headers */ = {isa = PBXBuildFile; fileRef = 566BB3A01B5E9E1C002B615B /* YALTabBarInteracting.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		566BB3B21B5E9E1C002B615B /* YALFoldingTabBar.h in Headers */ = {isa = PBXBuildFile; fileRef = 566BB3A31B5E9E1C002B615B /* YALFoldingTabBar.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		566BB3B31B5E9E1C002B615B /* YALFoldingTabBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 566BB3A41B5E9E1C002B615B /* YALFoldingTabBar.m */; };
 /* End PBXBuildFile section */
 
@@ -292,14 +292,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				566BB36D1B5E9DC6002B615B /* FoldingTabBar.h in Headers */,
-				566BB3A71B5E9E1C002B615B /* CAAnimation+YALTabBarViewAnimations.h in Headers */,
 				566BB3AF1B5E9E1C002B615B /* YALTabBarItem.h in Headers */,
+				566BB3B21B5E9E1C002B615B /* YALFoldingTabBar.h in Headers */,
+				566BB3AD1B5E9E1C002B615B /* YALFoldingTabBarController.h in Headers */,
+				566BB3A71B5E9E1C002B615B /* CAAnimation+YALTabBarViewAnimations.h in Headers */,
 				566BB3A51B5E9E1C002B615B /* YALSpringAnimation.h in Headers */,
 				566BB3AB1B5E9E1C002B615B /* YALAnimatingTabBarConstants.h in Headers */,
 				566BB3A91B5E9E1C002B615B /* CATransaction+TransactionWithAnimationsAndCompletion.h in Headers */,
 				566BB3B11B5E9E1C002B615B /* YALTabBarInteracting.h in Headers */,
-				566BB3B21B5E9E1C002B615B /* YALFoldingTabBar.h in Headers */,
-				566BB3AD1B5E9E1C002B615B /* YALFoldingTabBarController.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
