@@ -14,6 +14,6 @@ FOUNDATION_EXPORT const unsigned char FoldingTabBarVersionString[];
 #import <FoldingTabBar/YALAnimatingTabBarConstants.h>
 #import <FoldingTabBar/YALFoldingTabBar.h>
 #import <FoldingTabBar/YALFoldingTabBarController.h>
-#import <FoldingTabBar/YALSprintAnimation.h>
+#import <FoldingTabBar/YALSpringAnimation.h>
 #import <FoldingTabBar/YALTabBarInteracting.h>
 #import <FoldingTabBar/YALTabBarItem.h>
